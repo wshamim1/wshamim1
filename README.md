@@ -1,4 +1,4 @@
-# Hi there 👋 I'm W Shamim
+# Hi there 👋 I'm Shamim
 
 <div align="center">
   
