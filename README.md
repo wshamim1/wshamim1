@@ -36,6 +36,7 @@ Seasoned technology professional with **17+ years** of experience in Data Engine
 - **Mistral AI**
 - **Ollama**
 - **Databricks Foundation Models**
+- **Groq**
 
 ### AI Technologies
 ```
