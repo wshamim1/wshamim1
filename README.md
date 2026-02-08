@@ -154,8 +154,6 @@ I've published **200+ technical articles** covering:
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="40" height="40" />
       <br>Typescript
     </td>
-    
-    
     <td align="center" width="70">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />
       <br>Python
