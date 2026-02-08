@@ -39,12 +39,13 @@ Seasoned technology professional with **17+ years** of experience in Data Engine
 - **Groq**
 
 ### AI Technologies
-```
-🔹 LangChain & LangGraph          🔹 Agentic AI Workflows
-🔹 RAG (Retrieval-Augmented)      🔹 Multi-Agent Orchestration
-🔹 Prompt Engineering             🔹 LLMOps
-🔹 Vector Databases (FAISS, Chroma, Milvus, Elastic, OpenSearch, MongoDB)
-```
+- 🔹 LangChain & LangGraph
+- 🔹 Agentic AI workflows
+- 🔹 RAG (Retrieval-Augmented Generation)
+- 🔹 Multi-agent orchestration
+- 🔹 Prompt engineering
+- 🔹 LLMOps
+- 🔹 Vector databases (FAISS, Chroma, Milvus, Elastic, OpenSearch, MongoDB)
 
 ## 🛠️ Technology Stack
 
@@ -148,17 +149,16 @@ I've published **200+ technical articles** covering:
   <tr>
     <td align="center" width="70">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="40" height="40" />
-      <br>Javascript
+      <br>JavaScript
     </td>
     <td align="center" width="70">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="40" height="40" />
-      <br>Typescript
+      <br>TypeScript
     </td>
     <td align="center" width="70">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />
       <br>Python
     </td>
-    
     <td align="center" width="70">
       <img src="https://skillicons.dev/icons?i=php" width="35" height="35" alt="PHP" />
       <br>PHP
@@ -177,7 +177,7 @@ I've published **200+ technical articles** covering:
   <tr>
     <td align="center" width="70">
       <img src="https://skillicons.dev/icons?i=nodejs" width="35" height="35" alt="Nodejs" />
-      <br>Nodejs
+      <br>Node.js
     </td>
     <td align="center" width="70">
       <img src="https://skillicons.dev/icons?i=express" width="35" height="35" alt="Express" />
@@ -213,46 +213,6 @@ I've published **200+ technical articles** covering:
       <br>MySQL
     </td>
   </tr>
-  <!-- AI & ML Tools -->
-  <tr>
-    <td align="center" width="70">
-      <img src="./icons/openai.png" width="35" height="35" alt="OpenAI" />
-      <br>OpenAI
-    </td>
-    <td align="center" width="70">
-      <img src="./icons/deepseek.svg" width="35" height="35" alt="DeepSeek" />
-      <br>DeepSeek
-    </td>
-    <td align="center" width="70">
-      <img src="./icons/Langchain.svg" width="35" height="35" alt="LangChain" />
-      <br>LangChain
-    </td>
-    <td align="center" width="70">
-      <img src="./icons/huggingface.svg" width="35" height="35" alt="Hugging Face" />
-      <br>Hugging Face
-    </td>
-   
-    <td align="center" width="70">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="35" height="35" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="70">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="70">
-      <img src="./icons/ollama.svg" width="35" height="35" alt="Ollama" />
-      <br>Ollama
-    </td>
-    <td align="center" width="70">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="35" height="35" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="70">
-      <img src="./icons/vapi.png" width="35" height="35" alt="VApi" />
-      <br>VApi
-    </td>
-  </tr>
 </table>
 
 <br>
@@ -262,29 +222,41 @@ I've published **200+ technical articles** covering:
 ## 💡 Technical Expertise
 
 ### Integration & Middleware
-```
-StreamSets | DataStage | TIBCO | JMS | TIBCO EMS | ActiveMQ | RabbitMQ | Apache Kafka
-```
+- StreamSets
+- DataStage
+- TIBCO
+- JMS
+- TIBCO EMS
+- ActiveMQ
+- RabbitMQ
+- Apache Kafka
 
 ### Security & Authentication
-```
-OAuth 2.0 | SAML | JWT | Basic Auth | AWS IAM | SSO
-```
+- OAuth 2.0
+- SAML
+- JWT
+- Basic Auth
+- AWS IAM
+- SSO
 
 ### Data Formats & Processing
-```
-XML | JSON | CSV | Flat Files | Parquet | Avro
-```
+- XML
+- JSON
+- CSV
+- Flat files
+- Parquet
+- Avro
 
 ### Testing & API Tools
-```
-MUnit | SOAP UI | Postman | Swagger UI
-```
+- MUnit
+- SOAP UI
+- Postman
+- Swagger UI
 
 ### Project Management
-```
-Jira | Confluence | Agile/Scrum Methodologies
-```
+- Jira
+- Confluence
+- Agile/Scrum methodologies
 
 ## 🤝 Let's Connect
 
