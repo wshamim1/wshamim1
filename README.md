@@ -140,6 +140,127 @@ I've published **200+ technical articles** covering:
 
 **[📖 Read my articles on Medium](https://medium.com/@Shamimw/)**
 
+
+### 💻 Tech Stack
+
+<table align="center">
+  <!-- Programming Languages -->
+  <tr>
+    <td align="center" width="70">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="40" height="40" />
+      <br>Javascript
+    </td>
+    <td align="center" width="70">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="40" height="40" />
+      <br>Typescript
+    </td>
+    
+    
+    <td align="center" width="70">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />
+      <br>Python
+    </td>
+    
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=php" width="35" height="35" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=ruby" width="35" height="35" alt="Ruby" />
+      <br>Ruby
+    </td>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=java" width="35" height="35" alt="Java" />
+      <br>Java
+    </td>
+  </tr>
+  
+  <!-- Frameworks & Libraries -->
+  <tr>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="35" height="35" alt="Nodejs" />
+      <br>Nodejs
+    </td>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=express" width="35" height="35" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="70">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40" />
+      <br>React
+    </td>
+    
+    <td align="center" width="70">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="40" height="40" />
+      <br>Django
+    </td>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=laravel" width="35" height="35" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=angular" width="35" height="35" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=postgres" width="35" height="35" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="35" height="35" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=mysql" width="35" height="35" alt="MySQL" />
+      <br>MySQL
+    </td>
+  </tr>
+  <!-- AI & ML Tools -->
+  <tr>
+    <td align="center" width="70">
+      <img src="./icons/openai.png" width="35" height="35" alt="OpenAI" />
+      <br>OpenAI
+    </td>
+    <td align="center" width="70">
+      <img src="./icons/deepseek.svg" width="35" height="35" alt="DeepSeek" />
+      <br>DeepSeek
+    </td>
+    <td align="center" width="70">
+      <img src="./icons/Langchain.svg" width="35" height="35" alt="LangChain" />
+      <br>LangChain
+    </td>
+    <td align="center" width="70">
+      <img src="./icons/huggingface.svg" width="35" height="35" alt="Hugging Face" />
+      <br>Hugging Face
+    </td>
+   
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="35" height="35" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="70">
+      <img src="./icons/ollama.svg" width="35" height="35" alt="Ollama" />
+      <br>Ollama
+    </td>
+    <td align="center" width="70">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="35" height="35" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="70">
+      <img src="./icons/vapi.png" width="35" height="35" alt="VApi" />
+      <br>VApi
+    </td>
+  </tr>
+</table>
+
+<br>
+
+
+
 ## 💡 Technical Expertise
 
 ### Integration & Middleware
