@@ -13,25 +13,25 @@
 
 **Solution Architect | Data Engineering & Analytics Leader | Applied AI Specialist**
 
-Seasoned technology professional with **17+ years** of experience in Data Engineering, Analytics, and Applied AI. Expert in architecting scalable solutions across both cloud-native (AWS, Azure, GCP) and on-premises environments for complex enterprise landscapes.
+Seasoned technology professional with **17+ years** of experience in Data Engineering, Analytics, and Applied AI. I design and deliver scalable, secure data + AI platforms across **AWS, Azure, GCP, and hybrid/on‑prem** enterprise environments.
 
 ### 🎯 Current Role
-**Solution Architect (Technology Expert Lab)** @ IBM 
+**Solution Architect (Technology Expert Lab)** @ IBM
 
-### 💡 Core Specializations
+### 💡 What I Build
 
-- 🤖 **Generative AI & LLM Solutions**: End-to-end AI/ML architecture with LangChain, LangGraph, Agentic AI, and RAG
-- 🏗️ **Enterprise Architecture**: Scalable data platforms, cloud-native migrations, and hybrid infrastructure design
-- 🔄 **Data Engineering**: Real-time & batch analytics, ETL/ELT pipelines, streaming architectures
-- ☁️ **Cloud Transformation**: AWS, Azure, GCP migrations and optimization
-- 👥 **Technical Leadership**: Global team management across delivery, development, and support functions
+- 🤖 **Generative AI & LLM Solutions**: Agentic workflows, LangChain/LangGraph, RAG, evaluation, and LLMOps
+- 🏗️ **Enterprise & Data Platform Architecture**: Lakehouse, data mesh patterns, governance, and modernization
+- 🔄 **Data Engineering**: Real-time & batch pipelines, ELT/ETL, orchestration, streaming architectures
+- ☁️ **Cloud Transformation**: Cloud migrations, optimization, and reference architectures
+- 👥 **Technical Leadership**: Global delivery leadership across architecture, engineering, and support
 - ✍️ **Thought Leadership**: Published **200+ technical articles** on Medium
 
 ## 🧠 Applied AI & Generative AI Expertise
 
 ### LLM Ecosystem Integration
 - **OpenAI** (GPT models)
-- **IBM Watsonx** (watsonx.ai, watsonx.data)
+- **IBM watsonx** (watsonx.ai, watsonx.data)
 - **AWS Bedrock**
 - **Mistral AI**
 - **Ollama**
@@ -55,7 +55,7 @@ Seasoned technology professional with **17+ years** of experience in Data Engine
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![IBM Watson](https://img.shields.io/badge/IBM%20Watson-BE95FF?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM watsonx](https://img.shields.io/badge/IBM%20watsonx-BE95FF?style=for-the-badge&logo=ibm&logoColor=white)
 
 ### Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -75,7 +75,7 @@ Seasoned technology professional with **17+ years** of experience in Data Engine
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibm-cloud&logoColor=white)
 
-### Databases & Storage
+### Databases & Search
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -104,7 +104,7 @@ Seasoned technology professional with **17+ years** of experience in Data Engine
 - ✅ IBM watsonx.ai Technical Essentials
 - ✅ IBM watsonx.data Technical Essentials
 - ✅ IBM watsonx Essentials
-- ✅ Watsonx.ai Technical Sales Intermediate
+- ✅ watsonx.ai Technical Sales Intermediate
 - ✅ IBM Generative AI Foundations
 - ✅ watsonx.data Sales Foundation
 - ✅ Enterprise Design Thinking - Team Essentials for AI
@@ -118,29 +118,26 @@ Seasoned technology professional with **17+ years** of experience in Data Engine
 
 </details>
 
-## 🎯 Key Achievements
+## 🎯 Highlights
 
-- ✅ **17+ years** of experience in Data Engineering, Analytics, and Applied AI
-- ✅ Architected and deployed **scalable AI systems** with agent-based pipelines
-- ✅ Led **global teams** across delivery, development, and support functions
-- ✅ Successfully migrated **legacy platforms** to modern cloud-native infrastructures
-- ✅ Built **secure, performant data platforms** for real-time and batch analytics
-- ✅ Integrated diverse **LLM ecosystems** (OpenAI, Watsonx, Bedrock, Mistral, Ollama)
-- ✅ Published **200+ technical articles** on Medium covering AI, Data Engineering, and Cloud
-- ✅ Delivered **enterprise-grade solutions** with focus on business outcomes
+- ✅ **17+ years** in Data Engineering, Analytics, and Applied AI
+- ✅ Built **enterprise-grade data platforms** (batch + streaming)
+- ✅ Delivered **agentic GenAI** solutions with RAG + evaluation/guardrails
+- ✅ Modernized **legacy platforms** into cloud-native/hybrid architectures
+- ✅ Led **global teams** across architecture, engineering, delivery, and support
+- ✅ Integrated multiple **LLM ecosystems** (OpenAI, watsonx, Bedrock, Mistral, Ollama)
+- ✅ Published **200+ technical articles** on Medium
 
-## 📝 Latest Medium Articles
+## 📝 Writing
 
-I've published **200+ technical articles** covering:
-- 🤖 Generative AI & LLM Integration
-- 🔗 LangChain, LangGraph & Agentic AI
-- 📊 Data Engineering Best Practices
-- ☁️ Cloud Architecture Patterns
-- 🔄 Real-time Data Processing & Streaming
-- 🎯 Solution Architecture & Design
+I publish practical content on:
+- Generative AI & LLM integration
+- LangChain/LangGraph & Agentic AI
+- Data Engineering best practices
+- Cloud architecture patterns
+- Streaming & real-time analytics
 
 **[📖 Read my articles on Medium](https://medium.com/@Shamimw/)**
-
 
 ## 💡 Technical Expertise
 
@@ -181,13 +178,12 @@ I've published **200+ technical articles** covering:
 - Confluence
 - Agile/Scrum methodologies
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
 - 📧 Open to collaborations on **AI/ML, Data Engineering, and Cloud Architecture** projects
-- 💬 Available for discussions on **Generative AI, LLM integration, and Data Platform strategies**
-- 🎤 Available for **technical talks, workshops, and knowledge sharing sessions**
-- ✍️ Regular contributor to technical content on **Medium**
-- 🌐 Passionate about building **scalable, intelligent systems** that transform businesses
+- 💬 Happy to chat about **GenAI adoption, LLM integration, and data platform strategy**
+- 🎤 Available for **talks, workshops, and knowledge sharing sessions**
+- ✍️ Regular contributor on **Medium**
 
 ---
 
