@@ -27,10 +27,28 @@ Seasoned technology professional with **17+ years** of experience in Data Engine
 - 👥 **Technical Leadership**: Global delivery leadership across architecture, engineering, and support
 - ✍️ **Thought Leadership**: Published **200+ technical articles** on Medium
 
+## ⭐ Spotlight: Pipesets AI
+
+**[Pipesets AI](https://github.com/wshamim1/pipesets-ai)** is an open-source, self-hostable platform for building,
+evaluating and running LLM agent pipelines. You design a pipeline on a visual canvas (models, tools, memory,
+retrieval, guardrails, multi-agent orchestration), test it against eval datasets, publish a version, and run it
+from the UI, on a schedule, from a webhook, through a versioned REST API, from any MCP client, or as a shareable
+chat link.
+
+- **19 model providers / 73 models** through its own LLM gateway, including local models (Ollama, llama.cpp)
+- **209 built-in tools** and **110 MCP servers**, plus custom Python tools run in a container sandbox
+- **Evals built in**: datasets, scorers, synthetic test cases, and eval-gated publishing
+- **Team-ready**: multi-tenant access control, an encrypted secrets vault, guardrails, budgets and an audit log
+- **Runs anywhere**: one script locally, Docker / Podman Compose, Kubernetes, or a desktop app
+- **No lock-in**: export pipelines to LangChain, CrewAI, AutoGen, notebooks or Docker
+
+[![Pipesets AI](https://img.shields.io/badge/Pipesets%20AI-View%20on%20GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wshamim1/pipesets-ai)
+
 ## 📌 Featured Projects
 
 | Project | What it does | Tech |
 |---|---|---|
+| [**pipesets-ai**](https://github.com/wshamim1/pipesets-ai) | Self-hostable platform to build, evaluate and run LLM agent pipelines on a visual canvas: 19 model providers, 200+ tools, 110 MCP servers, evals with publish gates, multi-tenant access control, secrets vault and audit log; runs from the UI, cron, webhooks, REST API, MCP or chat links | Python, FastAPI, React, TypeScript, React Flow, SQLAlchemy / Alembic, PostgreSQL / pgvector, Docker / Podman, Kubernetes, Tauri |
 | [**multi-agenticai-using-amazon-bedrock**](https://github.com/wshamim1/multi-agenticai-using-amazon-bedrock) | Supervisor + collaborator multi-agent system with a RAG knowledge base and a Streamlit chat UI; idempotent one-command AWS deployment | Amazon Bedrock Agents, Nova Pro, Titan Embeddings, Lambda, S3, OpenSearch Serverless, IAM, Streamlit |
 | [**Databases**](https://github.com/wshamim1/Databases) | Configuration-driven Python framework with one unified CRUD API across 25+ databases, plus a Podman stack that spins up 11 of them locally | Python, YAML, Podman, relational / NoSQL / graph / time-series / vector DBs |
 | [**fake-data-generator**](https://github.com/wshamim1/fake-data-generator) | Synthetic test-data generators for 9 output formats | Python, Faker, CSV, JSON, Parquet, Avro, XML, YAML, Excel, TSV, SQL |
@@ -150,6 +168,7 @@ Seasoned technology professional with **17+ years** of experience in Data Engine
 - ✅ **17+ years** in Data Engineering, Analytics, and Applied AI
 - ✅ Built **enterprise-grade data platforms** (batch + streaming)
 - ✅ Delivered **agentic GenAI** solutions with RAG + evaluation/guardrails
+- ✅ Built **[Pipesets AI](https://github.com/wshamim1/pipesets-ai)**, an open-source platform to build, evaluate and run LLM agent pipelines (19 model providers, 200+ tools, 110 MCP servers, multi-tenant, self-hosted)
 - ✅ Built a **multi-agent system on Amazon Bedrock** with RAG, Lambda actions and one-command, idempotent deployment
 - ✅ Created a **unified Python framework for 25+ databases** driven entirely by configuration
 - ✅ Modernized **legacy platforms** into cloud-native/hybrid architectures
